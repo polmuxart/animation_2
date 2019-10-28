@@ -1,0 +1,15 @@
+body,
+html {
+  height: 100%;
+  margin: 0;
+  background: black;
+  color: white;
+}
+
+.menu {
+  float: right;
+}
+.navbar {
+  background: black;
+  color: white;
+}
